@@ -12,7 +12,7 @@ public class _04_Operator4 {
         System.out.println((5 > 3) || (3 > 1)); // true
         System.out.println((5 > 3) || (3 < 1)); // true
 
-        // 논리 부정 연삱
+        // 논리 부정 연산자
         System.out.println(!true); // false
         System.out.println(!false); // true
         System.out.println(!(5==5)); // false
